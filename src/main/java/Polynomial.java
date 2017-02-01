@@ -2,6 +2,8 @@
 
 public class Polynomial {
 
+    // Això és una prova
+
     public float[] polinomyal;
     StringBuilder sb = new StringBuilder();
 
